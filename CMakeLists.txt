@@ -3,8 +3,8 @@ cmake_minimum_required(VERSION 3.2)
 include("cmake/HunterGate.cmake")
 
 HunterGate(
-  URL "https://github.com/wisk/hunter/archive/medusa-deps.tar.gz"
-  SHA1 "8c538a0f6209b58681222e6bd766dc682e6a80fe"
+  URL "https://github.com/conradjones/hunter/archive/medusa-deps-0.1.tar.gz"
+  SHA1 "542c29cd3426a9c6070c9ed076a2458df687d159"
 )
 
 # project name
